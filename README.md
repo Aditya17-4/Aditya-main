@@ -6,18 +6,18 @@
 
 ### Glad to see you here!
 
-I'm a third year Computer Science Engineering Student 🎓 from GITAM University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a third year Computer Science Engineering Student 🎓 from GITAM University 🏛. I'm a passionate learner and work across latest technologies and domains 💡. I'm currently into Web Development(front-end) , learning back-end 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-Joined Github **2** years ago.
+Joined Github **1** years ago.
 
-Since then I've pushed **240**+ commits
+Since then I've pushed **12**+ commits
 
 ### a little about myself:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Bootstrap 4, React, <br /> Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/justinclarke).
-- 📫 &nbsp; How to reach me: justinsavioclarke@outlook.com.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Aditya17-4/).
+- 📫 &nbsp; How to reach me: krpandeyadtya@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/).
 
 ### things i do:
