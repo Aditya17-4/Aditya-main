@@ -44,6 +44,9 @@ Since then I've pushed **12**+ commits
 <code><img alt="HTML5" height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img alt="React" height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
 <code><img alt="MySQL" height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
+
+#
+
 <b>⚙️ things I use to get stuff done</b>
 
 <li><b>OS:</b> Windows 10 Pro</li>
