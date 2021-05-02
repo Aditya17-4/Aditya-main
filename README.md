@@ -12,6 +12,10 @@ Joined Github **1** years ago.
 
 Since then I've pushed **12**+ commits
 
+### Spotify Playing 🎧
+
+<iframe src="https://open.spotify.com/embed/track/54mq8JeqKW3SoNKuhnfLmq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 ### a little about myself:
 
 - 🛠 &nbsp; I’m currently working with Bootstrap 4, React, <br /> Javascript, etc.
