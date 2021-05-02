@@ -14,7 +14,7 @@ Since then I've pushed **12**+ commits
 
 ### Spotify Playing 🎧
 
-<iframe src="https://open.spotify.com/embed/track/54mq8JeqKW3SoNKuhnfLmq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Aditya Spotify Playing" width="350" />](https://open.spotify.com/user/mx5rp4blkvlh6lmml9b83jvyp)
 
 ### a little about myself:
 
