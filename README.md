@@ -18,7 +18,7 @@ Since then I've pushed **240**+ commits
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/justinclarke).
 - 📫 &nbsp; How to reach me: justinsavioclarke@outlook.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/JustinClarke/JustinClarke/raw/main/Resum%C3%A9.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/).
 
 ### things i do:
 
