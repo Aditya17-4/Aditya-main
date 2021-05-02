@@ -36,17 +36,13 @@ Since then I've pushed **12**+ commits
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
-
 <b>⚙️ things I use to get stuff done</b>
 
-<li><b>OS:</b> Ubuntu 20.04, Windows 10 Pro</li>
-<li><b>Laptop: </b> Microsoft Surface laptop</li>
-<li><b>Browser: </b> Microsoft Edge</li>
-<li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-<li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+<li><b>OS:</b> Windows 10 Pro</li>
+<li><b>Laptop: </b> Republic of gamers laptop</li>
+<li><b>Browser: </b> Microsoft Edge, IE, Chrome, Firefox</li>
+<li><b>Code Editor:</b> Brackets, Eclipse, Pycham and VSCode - The best editor out there.</li>
+<li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin.</li>
 
 #
 
