@@ -18,22 +18,21 @@ Since then I've pushed **12**+ commits
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Aditya17-4/).
 - 📫 &nbsp; How to reach me: krpandeyadtya@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/Aditya17-4/Aditya-main/blob/master/Aditya_resume.pdf).
 
 ### things i do:
 
 - 💻 &nbsp; I love exploring new tech stacks and applying them.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 📰 &nbsp; Reading & listening to music in the free time.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
-- 🎸 &nbsp; Play guitar for some mindful escapism
+- 🎸 &nbsp; Sketch cartoons for some mindful escapism
 
 ### Languages and Tools:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="mysql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
